@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "name": "Dog supplies",
+    "slug": "dog-supplies",
+    "description": "Chews, toys, leashes and everyday essentials for dogs, supplied in bulk to pet retailers.",
+    "seo_title": "",
+    "seo_description": "",
+    "tile": "#FFD966",
+    "published": 1,
+    "sort": 1,
+    "created_at": "2026-11-01 14:47:16",
+    "updated_at": "2026-11-01 14:47:16"
+  },
+  {
+    "id": 2,
+    "name": "Cat supplies",
+    "slug": "cat-supplies",
+    "description": "Scratchers, teasers, litter accessories and daily care products for cats.",
+    "seo_title": "",
+    "seo_description": "",
+    "tile": "#BDEBD3",
+    "published": 1,
+    "sort": 2,
+    "created_at": "2026-11-01 14:47:16",
+    "updated_at": "2026-11-01 14:47:16"
+  },
+  {
+    "id": 3,
+    "name": "Feeding and grooming",
+    "slug": "feeding-and-grooming",
+    "description": "Bowls, brushes and grooming products for dogs and cats.",
+    "seo_title": "",
+    "seo_description": "",
+    "tile": "#BFE0FF",
+    "published": 1,
+    "sort": 3,
+    "created_at": "2026-11-01 14:47:16",
+    "updated_at": "2026-11-01 14:47:16"
+  },
+  {
+    "id": 4,
+    "name": "New arrivals",
+    "slug": "new-arrivals",
+    "description": "The latest products added to the Pets Friend trade catalog.",
+    "seo_title": "",
+    "seo_description": "",
+    "tile": "#D9D4FF",
+    "published": 1,
+    "sort": 4,
+    "created_at": "2026-11-01 14:47:16",
+    "updated_at": "2026-11-01 14:47:16"
+  }
+]

@@ -1,0 +1,399 @@
+[
+  {
+    "id": 1,
+    "name": "Chew bone, 12 cm",
+    "slug": "chew-bone-12-cm",
+    "sku": "PF-D-014",
+    "brand_id": 1,
+    "description": "[PRODUCT DESCRIPTION. Material, size, use and care.]",
+    "moq": 50,
+    "base_price": 96,
+    "gst_rate": 18,
+    "hsn": "[HSN]",
+    "stock": 4200,
+    "tile": "#FFD966",
+    "seo_title": "",
+    "seo_description": "",
+    "published": 1,
+    "created_at": "2026-11-01 14:47:16",
+    "updated_at": "2026-11-01 14:47:16",
+    "collections": [
+      1,
+      4
+    ],
+    "slabs": [
+      {
+        "min_qty": 50,
+        "max_qty": 100,
+        "price": 96
+      },
+      {
+        "min_qty": 101,
+        "max_qty": 200,
+        "price": 88
+      },
+      {
+        "min_qty": 201,
+        "max_qty": 500,
+        "price": 81
+      },
+      {
+        "min_qty": 501,
+        "max_qty": 1000,
+        "price": 75
+      },
+      {
+        "min_qty": 1001,
+        "max_qty": null,
+        "price": 69
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Rope tug toy, 3-knot",
+    "slug": "rope-tug-toy-3-knot",
+    "sku": "PF-D-031",
+    "brand_id": 1,
+    "description": "[PRODUCT DESCRIPTION. Material, size, use and care.]",
+    "moq": 48,
+    "base_price": 80,
+    "gst_rate": 18,
+    "hsn": "[HSN]",
+    "stock": 3100,
+    "tile": "#BDEBD3",
+    "seo_title": "",
+    "seo_description": "",
+    "published": 1,
+    "created_at": "2026-11-01 14:47:16",
+    "updated_at": "2026-11-01 14:47:16",
+    "collections": [
+      1
+    ],
+    "slabs": [
+      {
+        "min_qty": 48,
+        "max_qty": 96,
+        "price": 80
+      },
+      {
+        "min_qty": 97,
+        "max_qty": 192,
+        "price": 74
+      },
+      {
+        "min_qty": 193,
+        "max_qty": 480,
+        "price": 67
+      },
+      {
+        "min_qty": 481,
+        "max_qty": 960,
+        "price": 62
+      },
+      {
+        "min_qty": 961,
+        "max_qty": null,
+        "price": 58
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Dog leash, 120 cm",
+    "slug": "dog-leash-120-cm",
+    "sku": "PF-D-040",
+    "brand_id": 2,
+    "description": "[PRODUCT DESCRIPTION. Material, size, use and care.]",
+    "moq": 36,
+    "base_price": 180,
+    "gst_rate": 18,
+    "hsn": "[HSN]",
+    "stock": 2400,
+    "tile": "#BFE0FF",
+    "seo_title": "",
+    "seo_description": "",
+    "published": 1,
+    "created_at": "2026-11-01 14:47:16",
+    "updated_at": "2026-11-01 14:47:16",
+    "collections": [
+      1
+    ],
+    "slabs": [
+      {
+        "min_qty": 36,
+        "max_qty": 72,
+        "price": 180
+      },
+      {
+        "min_qty": 73,
+        "max_qty": 144,
+        "price": 166
+      },
+      {
+        "min_qty": 145,
+        "max_qty": 360,
+        "price": 151
+      },
+      {
+        "min_qty": 361,
+        "max_qty": 720,
+        "price": 140
+      },
+      {
+        "min_qty": 721,
+        "max_qty": null,
+        "price": 130
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Steel bowl, 700 ml",
+    "slug": "steel-bowl-700-ml",
+    "sku": "PF-F-007",
+    "brand_id": 2,
+    "description": "[PRODUCT DESCRIPTION. Material, size, use and care.]",
+    "moq": 24,
+    "base_price": 200,
+    "gst_rate": 18,
+    "hsn": "[HSN]",
+    "stock": 880,
+    "tile": "#D9D4FF",
+    "seo_title": "",
+    "seo_description": "",
+    "published": 1,
+    "created_at": "2026-11-01 14:47:16",
+    "updated_at": "2026-11-01 14:47:16",
+    "collections": [
+      1,
+      2,
+      3
+    ],
+    "slabs": [
+      {
+        "min_qty": 24,
+        "max_qty": 48,
+        "price": 200
+      },
+      {
+        "min_qty": 49,
+        "max_qty": 96,
+        "price": 184
+      },
+      {
+        "min_qty": 97,
+        "max_qty": 240,
+        "price": 168
+      },
+      {
+        "min_qty": 241,
+        "max_qty": 480,
+        "price": 156
+      },
+      {
+        "min_qty": 481,
+        "max_qty": null,
+        "price": 144
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Cat scratch pad",
+    "slug": "cat-scratch-pad",
+    "sku": "PF-C-022",
+    "brand_id": 1,
+    "description": "[PRODUCT DESCRIPTION. Material, size, use and care.]",
+    "moq": 36,
+    "base_price": 138,
+    "gst_rate": 18,
+    "hsn": "[HSN]",
+    "stock": 120,
+    "tile": "#FFC9B0",
+    "seo_title": "",
+    "seo_description": "",
+    "published": 1,
+    "created_at": "2026-11-01 14:47:16",
+    "updated_at": "2026-11-01 14:47:16",
+    "collections": [
+      2,
+      4
+    ],
+    "slabs": [
+      {
+        "min_qty": 36,
+        "max_qty": 72,
+        "price": 138
+      },
+      {
+        "min_qty": 73,
+        "max_qty": 144,
+        "price": 127
+      },
+      {
+        "min_qty": 145,
+        "max_qty": 360,
+        "price": 116
+      },
+      {
+        "min_qty": 361,
+        "max_qty": 720,
+        "price": 108
+      },
+      {
+        "min_qty": 721,
+        "max_qty": null,
+        "price": 99
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Cat teaser wand",
+    "slug": "cat-teaser-wand",
+    "sku": "PF-C-030",
+    "brand_id": 2,
+    "description": "[PRODUCT DESCRIPTION. Material, size, use and care.]",
+    "moq": 60,
+    "base_price": 110,
+    "gst_rate": 18,
+    "hsn": "[HSN]",
+    "stock": 90,
+    "tile": "#FFD966",
+    "seo_title": "",
+    "seo_description": "",
+    "published": 1,
+    "created_at": "2026-11-01 14:47:16",
+    "updated_at": "2026-11-01 14:47:16",
+    "collections": [
+      2
+    ],
+    "slabs": [
+      {
+        "min_qty": 60,
+        "max_qty": 120,
+        "price": 110
+      },
+      {
+        "min_qty": 121,
+        "max_qty": 240,
+        "price": 101
+      },
+      {
+        "min_qty": 241,
+        "max_qty": 600,
+        "price": 92
+      },
+      {
+        "min_qty": 601,
+        "max_qty": 1200,
+        "price": 86
+      },
+      {
+        "min_qty": 1201,
+        "max_qty": null,
+        "price": 79
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Grooming brush",
+    "slug": "grooming-brush",
+    "sku": "PF-G-012",
+    "brand_id": 1,
+    "description": "[PRODUCT DESCRIPTION. Material, size, use and care.]",
+    "moq": 30,
+    "base_price": 150,
+    "gst_rate": 18,
+    "hsn": "[HSN]",
+    "stock": 1500,
+    "tile": "#BDEBD3",
+    "seo_title": "",
+    "seo_description": "",
+    "published": 1,
+    "created_at": "2026-11-01 14:47:16",
+    "updated_at": "2026-11-01 14:47:16",
+    "collections": [
+      3
+    ],
+    "slabs": [
+      {
+        "min_qty": 30,
+        "max_qty": 60,
+        "price": 150
+      },
+      {
+        "min_qty": 61,
+        "max_qty": 120,
+        "price": 138
+      },
+      {
+        "min_qty": 121,
+        "max_qty": 300,
+        "price": 126
+      },
+      {
+        "min_qty": 301,
+        "max_qty": 600,
+        "price": 117
+      },
+      {
+        "min_qty": 601,
+        "max_qty": null,
+        "price": 108
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Cat litter scoop",
+    "slug": "cat-litter-scoop",
+    "sku": "PF-C-041",
+    "brand_id": 2,
+    "description": "[PRODUCT DESCRIPTION. Material, size, use and care.]",
+    "moq": 48,
+    "base_price": 70,
+    "gst_rate": 18,
+    "hsn": "[HSN]",
+    "stock": 1900,
+    "tile": "#BFE0FF",
+    "seo_title": "",
+    "seo_description": "",
+    "published": 1,
+    "created_at": "2026-11-01 14:47:16",
+    "updated_at": "2026-11-01 14:47:16",
+    "collections": [
+      2,
+      3
+    ],
+    "slabs": [
+      {
+        "min_qty": 48,
+        "max_qty": 96,
+        "price": 70
+      },
+      {
+        "min_qty": 97,
+        "max_qty": 192,
+        "price": 64
+      },
+      {
+        "min_qty": 193,
+        "max_qty": 480,
+        "price": 59
+      },
+      {
+        "min_qty": 481,
+        "max_qty": 960,
+        "price": 55
+      },
+      {
+        "min_qty": 961,
+        "max_qty": null,
+        "price": 50
+      }
+    ]
+  }
+]

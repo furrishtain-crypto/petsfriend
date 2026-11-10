@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "title": "About Pets Friend",
+    "slug": "about",
+    "body": "## About Pets Friend\n\n[ADD ABOUT PETS FRIEND CONTENT HERE]",
+    "seo_title": "",
+    "seo_description": "",
+    "published": 1,
+    "updated_at": "2026-11-01 14:47:16"
+  },
+  {
+    "id": 2,
+    "title": "Contact",
+    "slug": "contact",
+    "body": "## Contact\n\n[ADD CONTACT CONTENT HERE]",
+    "seo_title": "",
+    "seo_description": "",
+    "published": 1,
+    "updated_at": "2026-11-01 14:47:16"
+  },
+  {
+    "id": 3,
+    "title": "FAQ",
+    "slug": "faq",
+    "body": "## FAQ\n\n[ADD FAQ CONTENT HERE]",
+    "seo_title": "",
+    "seo_description": "",
+    "published": 1,
+    "updated_at": "2026-11-01 14:47:16"
+  },
+  {
+    "id": 4,
+    "title": "Shipping policy",
+    "slug": "shipping-policy",
+    "body": "## Shipping policy\n\n[ADD SHIPPING POLICY CONTENT HERE]",
+    "seo_title": "",
+    "seo_description": "",
+    "published": 1,
+    "updated_at": "2026-11-01 14:47:16"
+  },
+  {
+    "id": 5,
+    "title": "Returns policy",
+    "slug": "returns-policy",
+    "body": "## Returns policy\n\n[ADD RETURNS POLICY CONTENT HERE]",
+    "seo_title": "",
+    "seo_description": "",
+    "published": 1,
+    "updated_at": "2026-11-01 14:47:16"
+  },
+  {
+    "id": 6,
+    "title": "Privacy policy",
+    "slug": "privacy-policy",
+    "body": "## Privacy policy\n\n[ADD PRIVACY POLICY CONTENT HERE]",
+    "seo_title": "",
+    "seo_description": "",
+    "published": 1,
+    "updated_at": "2026-11-01 14:47:16"
+  },
+  {
+    "id": 7,
+    "title": "Terms of trade",
+    "slug": "terms-of-trade",
+    "body": "## Terms of trade\n\n[ADD TERMS OF TRADE CONTENT HERE]",
+    "seo_title": "",
+    "seo_description": "",
+    "published": 1,
+    "updated_at": "2026-11-01 14:47:16"
+  }
+]

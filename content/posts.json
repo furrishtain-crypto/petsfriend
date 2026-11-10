@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "How MOQ and slab pricing work for pet retailers",
+    "slug": "how-moq-and-slab-pricing-work",
+    "excerpt": "A plain explanation of minimum order quantities and quantity slabs, and how to pick the slab that suits your shop.",
+    "body": "## What is an MOQ\n\nThe minimum order quantity (MOQ) is the smallest number of pieces of a product we can supply in one order. Each product has its own MOQ.\n\n## What is a slab\n\nA slab is a quantity range with its own price per piece. Order more pieces and you move into a higher slab with a lower price per piece.\n\n## Choosing a slab\n\nLook at how fast a product sells in your shop, then pick the quantity you can sell before the next restock. [ADD YOUR OWN GUIDANCE AND EXAMPLES HERE]",
+    "category": "Guides",
+    "author": "Pets Friend team",
+    "seo_title": "",
+    "seo_description": "What a minimum order quantity is, how quantity slabs lower the price per piece, and how to choose the right slab for your pet shop.",
+    "published": 1,
+    "published_at": "2026-11-01 14:47:16",
+    "created_at": "2026-11-01 14:47:16",
+    "updated_at": "2026-11-01 14:47:16"
+  },
+  {
+    "id": 2,
+    "title": "Checklist: what to ask a pet product supplier before your first order",
+    "slug": "checklist-questions-for-pet-product-supplier",
+    "excerpt": "Questions worth asking any wholesale pet supplier, from MOQ and GST invoices to dispatch times.",
+    "body": "## Before you order\n\n- What is the MOQ for each product?\n- Do prices change with quantity?\n- Is a GST tax invoice provided?\n- How long does dispatch take?\n- What is the returns policy?\n\n[ADD YOUR OWN TIPS HERE]",
+    "category": "Guides",
+    "author": "Pets Friend team",
+    "seo_title": "",
+    "seo_description": "A short checklist of questions to ask a wholesale pet product supplier before placing your first order.",
+    "published": 1,
+    "published_at": "2026-11-01 14:47:16",
+    "created_at": "2026-11-01 14:47:16",
+    "updated_at": "2026-11-01 14:47:16"
+  }
+]
